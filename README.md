@@ -28,10 +28,10 @@
 2. Segundo
 3. Tercero
 
-||Nombre|Apellido  | Edad|Correo||
-|--|--|--| -- |--|--|
-||Stan  | Lee | 96| 4lcacho@gmail.com|
-||Richard|Anaya|19| ricardotejedor18@gmail.com|
+|Nombre|Apellido  | Edad|Correo|
+|--|--| -- |--|
+|Stan  | Lee | 96| 4lcacho@gmail.com|
+|Richard|Anaya|19| ricardotejedor18@gmail.com|
 
 >  # Lista del supermercado
 *Seleccionar lo que falta*
